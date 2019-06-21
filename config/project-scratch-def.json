@@ -1,0 +1,19 @@
+{
+  "orgName": "Brillio LLC",
+  "edition": "Enterprise",
+  "features": ["Communities", "ServiceCloud"],
+  "settings": {
+      "orgPreferenceSettings": {
+          "networksEnabled": true,
+          "s1DesktopEnabled": true,
+          "s1EncryptedStoragePref2": false
+      },
+      "omniChannelSettings": {
+          "enableOmniChannel": true
+      },
+
+      "caseSettings": {
+          "systemUserEmail": "support@br.com"
+      }
+  }
+}
